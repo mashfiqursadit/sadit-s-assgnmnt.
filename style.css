@@ -1,0 +1,39 @@
+.start{
+    background-color: rgb(234, 229, 221);
+    padding: 2em;
+}
+.col-md-6 h1{
+    color: orange;
+}
+#Run{
+    color:rgb(59, 59, 126);
+}
+.col-md-6 p{
+    color: gray;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.shoe{
+    font-weight: bold;
+}
+.casual{
+    
+    border: 0cm;
+}
+#casual-card{
+    background-color:rgb(228, 224, 217);
+    border-radius: 10px;
+    
+}
+
+i{
+    
+    color: white;
+}
+#end{
+    background-color: whitesmoke;
+    margin-bottom: 2em;
+    border-radius: 10px;
+}
+
